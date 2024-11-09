@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @utkarsh171106
 - 👀 I’m interested in Programming
+- ✒️ Skills - HTML, CSS, JavaScript and Python
 - 🌱 I’m currently learning C
 - ⚡ Fun fact: We are Venom 😂
 
